@@ -1,4 +1,4 @@
-# 🚀 YOUR_NAME  
+Rkashith H V
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• ENGLISH
+• Language 1
 • Language 2  
 • Language 3  
 
